@@ -110,7 +110,7 @@ Integrate with real-time order APIs
 👨‍💻 Author
 Ujjwal Kumar
 Data Analyst | Power BI Developer | GitHub: analyst-ujjwal
-Feel free to connect with me on Ujjwal Kumar
+Feel free to connect with me on www.linkedin.com/in/ujjwal-kumar-840ba2224
 
 📬 Feedback
 If you find this project useful or have suggestions for improvement, feel free to open an issue or create a pull request. Contributions are welcom
